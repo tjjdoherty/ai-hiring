@@ -41,7 +41,7 @@ AI is being touted as a universal threat to jobs in tech companies and has been 
 
 Unless a group is directly involved in the cutting edge of AI research or other technology (a very small subset), the H-1B visa data can examine if headcount is actually dropping. It could instead be an exercise in 'insourcing', in spite of an increasingly large domestic technology workforce available after years of layoffs. This also ignores any growth in Global Capacity Centres (GCCs), which already generate about $64bn in revenue and is expected to hit $110bn by 2030.
 
-### A foreign tech worker's journey to US settlement
+### A foreign tech worker's US journey
 
 1. Three-year H-1B visa. Employers don't have to do labor market testing at this stage, but the job must be a specialised, degree-level occupation.
 2. After six years maximum on an H-1B visa, the job must be labor market tested and advertised to US citizens (PERM). This takes around 12-18 months.
