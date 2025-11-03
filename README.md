@@ -8,7 +8,7 @@ This project begins with one major question:
 
 This project was inspired after Salesforce announced layoffs of 4,000 people in September 2025, with CEO Marc Benioff justifying that *"I need less heads [with AI]"*. However, an online commentator pointed out that between 2023 - Q3 2025, Salesforce has had over 3,600 H-1B worker visas approved by the U.S. Citizen & Immigration Services (USCIS). 
 
-At the start of this project, it's not clear if this is all net new workers being 'insourced', continuations, what continuation requirements are, or other situations. However, it felt worth examining tech companies holding RIFs of thousands whilst maintaining thousands of foreign workers on skilled visas as the domestic talent pool grows larger with every subsequent layoff.
+At the start of this project, it's not clear if this is all net new workers being 'insourced', continuations, what continuation requirements are, or other situations. However, it felt worth examining tech companies laying off thousands, whilst maintaining (or growing?) thousands of workers on a capped visa that runs on a [lottery system](https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/h-1b-electronic-registration-process) while the available domestic talent pool grows larger with every layoff.
 
 To examine this further, I have pulled from two data sources:
 - [Layoffs.fyi](https://layoffs.fyi), where the author Roger Lee (credit) has kept a database of news sources reporting on layoffs since COVID began
@@ -24,19 +24,25 @@ This project will:
 Key conclusions should relate to:
 - Layoffs correlating with decreasing numbers of net new H-1Bs;
 - Continuations not increasing;
-- Increased numbers of rejected applications (as a domestic tech talent pool is now ubiquitous)
+- Increased numbers of rejected applications, as a domestic talent pool is now ubiquitous and competitive for similar jobs.
 
 This project is **not** about:
 - Whether AI in its current state (mostly LLMs such as ChatGPT) is of genuine value. 
     - I have read the [MIT study](https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf) showing 95% of companies saw no meaningful P&L impact from post-pilot adoption. I have also read criticisms of it, but I don't feel there are any unbiased sources in a debate with so much money and market hype invested here.
 - Identifying flaws in the H-1B and immigration process. The goal is to challenge the AI-first, labour-second headcount. H-1B petitions are a robust dataset with large well-resourced stakeholders having an interest.
     - I will try to understand the definitions of each visa category to establish if new H-1Bs are simply replacing those laid off, or existing workers are being continued.
-    - I will also try to find information on how or where labor market testing is done, which should unearth the large pool of domestic talent. This mostly applies to tech companies, not other sectors using H-1B such as healthcare and academia.
+    - I will also try to find information on how or where labor market testing is done, which should unearth the large pool of domestic talent. This mostly applies to tech companies, not other sectors that often use H-1B such as healthcare and academia.
 
 ## Background
 
-AI is being touted as a universal threat to jobs in technology companies and has been quoted as the motive in nearly all layoff notices since late 2022, when ChatGPT became globally popular. This is apparent across functions from customer success, now threatened by voice agentic AI, and for engineering there are many tools pitched as equivalent to junior developers, such as [Devin, the AI Software Engineer](https://devin.ai).
+### AI and work
 
-The H-1B visa in particular makes for an interesting study, because the visa exists for sponsoring foreign workers with specialized skills (at least a Bachelor's degree) that employers cannot find in US Citizen applicants. Essentially, it is the solution when domestic talent is inadequate. In Salesforce's case, how is this visa still a solution when every U.S. tech layoff is expanding the pool of available American tech talent? At the very least, the scale of H-1B insourcing should be significantly lower than any scale of layoff, if the specialized skills are truly what is being sought with this visa. 
+AI is being touted as a universal threat to jobs in tech companies and has been quoted as the motive in nearly all layoff notices since late 2022, when ChatGPT was released. This is apparent across functions from customer success, now threatened by voice agentic AI, and for engineering there are many tools pitched as equivalent to junior developers, such as [Devin, the AI Software Engineer](https://devin.ai).
 
-Unless a group is directly involved in the cutting edge of AI research or other technology (a very small subset), the H-1B visa data can challenge that headcount is actually dropping. It could instead be an exercise in 'insourcing', in spite of an increasingly large domestic technology workforce available after years of layoffs. This also ignores any growth in Global Capacity Centres (GCCs), which already generate about $64bn in revenue and is expected to hit $110bn by 2030.
+Unless a group is directly involved in the cutting edge of AI research or other technology (a very small subset), the H-1B visa data can examine if headcount is actually dropping. It could instead be an exercise in 'insourcing', in spite of an increasingly large domestic technology workforce available after years of layoffs. This also ignores any growth in Global Capacity Centres (GCCs), which already generate about $64bn in revenue and is expected to hit $110bn by 2030.
+
+### A foreign tech worker's journey to US settlement
+
+1. Three-year H-1B visa. Employers don't have to do labor market testing at this stage, but the job must be a specialised, degree-level occupation.
+2. After six years maximum on an H-1B visa, the job must be labor market tested and advertised to US citizens (PERM). This takes around 12-18 months.
+3. If PERM approved, the foreign worker can apply for a Green Card through employer sponsorship. **Employment-based Green Cards have a per-country cap** (7% of 140,000 annual issuances). This creates huge backlogs for Chinese and particularly Indian applicants and [Some sources](https://www.boundless.com/immigration-resources/average-green-card-wait-times) show Indian Green Card applicants being processed now were initially applied for in early 2013, nearly 13 years ago. This has feasibly created a situation where tens of thousands of people spend north of 15 years with their status in the US tied to a specific employer and job that is supposedly highly threatened by AI, if you are in a technology related job.
