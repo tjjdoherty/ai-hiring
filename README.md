@@ -29,8 +29,7 @@ Key conclusions should relate to:
 This project is **not** about:
 - Whether AI in its current state (mostly LLMs such as ChatGPT) is of genuine value. 
     - I have read the [MIT study](https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf) showing 95% of companies saw no meaningful P&L impact from post-pilot adoption. I have also read criticisms of it, but I don't feel there are any unbiased sources in a debate with so much money and market hype invested here.
-- Identifying flaws in the H-1B and immigration process. The project goal is to examine the AI-first, labour-second narrative. To do that though, I will outline the process to show where the domestic and foreign worker journeys differ that might have an impact on job security for either the employer or the worker. 
-    - I will need to establish the definitions of each visa category to explore if H-1B is acting as a labor substitute after layoffs at a given company.
+- Identifying flaws in the H-1B and immigration process. The project goal is to examine the AI-first, labour-second narrative. To do that though, I will outline the process and definitions to show where the domestic and foreign worker journeys differ that might have an impact on worker job security, or labor strategy for the employer.
     - I will also try to find information on how or where labor market testing is done which should unearth the domestic talent pool. This will be done to see whether there is an element of labour replacement occurring in the layoffs at the company level.
 
 ## Background
