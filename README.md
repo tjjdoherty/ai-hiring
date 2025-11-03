@@ -14,7 +14,7 @@ To examine this further, I have pulled from two data sources:
 - [Layoffs.fyi](https://layoffs.fyi), where the author Roger Lee (credit) has kept a database of news sources reporting on layoffs since COVID began
 - The [H-1B Employer Data Hub](https://www.uscis.gov/tools/reports-and-studies/h-1b-employer-data-hub), showing employer petitions for H1B visas from 2017 to October 2025. The H-1B data shows several circumstances including new applicants, decisions on existing worker continuation and changes of employer.
 
-My core argument is that **any downward pressure on headcount from AI should apply equally to both domestic and foreign labor at a given company**, since this is not a technology strategy, not a labor or immigration one. The H-1B dataset happens to be a readily available, high quality, company-specific labor report where to my knowledge a domestic equivalent doesn't exist. 
+My core argument is that **any downward pressure on headcount from AI should apply equally to both domestic and foreign labor at a given company**. The H-1B dataset happens to be a readily available, high quality, company-specific labor report where to my knowledge a domestic equivalent doesn't exist. 
 
 This project will examine:
 - The companies most vocal about AI's impact, including the Magnificent 7 and mega cap tech companies
