@@ -32,7 +32,6 @@ This project is **not** about:
 - Identifying flaws in the H-1B and immigration process. The goal is to challenge the AI-first, labour-second headcount. H-1B petitions are a robust dataset with large well-resourced stakeholders having an interest.
     - I will try to understand the definitions of each visa category to establish if new H-1Bs are simply replacing those laid off, or existing workers are being continued.
     - I will also try to find information on how or where labor market testing is done, which should unearth the large pool of domestic talent. This mostly applies to tech companies, not other sectors using H-1B such as healthcare and academia.
-    - (later if needed) From Madeline Zavodny, Economics Professor @ UNF "*The underlying issue is that U.S. immigration policy requires most employers to do labor market testing at the PERM stage, when they are sponsoring a foreign worker for permanent residence, not at the H-1B stage*"
 
 ## Background
 
